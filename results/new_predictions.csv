@@ -1,0 +1,4 @@
+sequence_id,predicted_species,pdb_id
+TEST_BAC_1,Flavipsychrobacter stenotrophus,6G5Q
+TEST_BAC_2,Mixta intestinalis,4YAJ
+TEST_BAC_3,Siccibacter colletis,1BNA

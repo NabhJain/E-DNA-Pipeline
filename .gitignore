@@ -1,0 +1,6 @@
+ref_db/ 
+*.btd 
+*.sqlite3 
+*.mp4 
+.env 
+__pycache__/ 

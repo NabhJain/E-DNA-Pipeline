@@ -1,0 +1,6 @@
+qseqid,sseqid,pident,length,evalue,bitscore,stitle,staxids
+SEQ_ID1,NR_118889.1,97.5,150,9.999999999999999e-51,200,Bacillus subtilis strain ATCC 6051 16S ribosomal RNA,91061
+SEQ_ID2,NR_114582.1,95.2,148,1.0000000000000001e-45,185,Escherichia coli K-12 substr. MG1655 16S ribosomal RNA,511145
+SEQ_ID3,NR_026331.1,92.8,145,1e-40,170,Pseudomonas aeruginosa PAO1 16S ribosomal RNA,287
+SEQ_ID1,NR_118890.1,96.1,149,1e-48,195,Bacillus cereus ATCC 14579 16S ribosomal RNA,1396
+SEQ_ID2,NR_114583.1,94.3,147,1e-43,180,Escherichia coli O157:H7 16S ribosomal RNA,83333
